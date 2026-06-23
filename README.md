@@ -9,6 +9,7 @@
 
 A full-stack, next-generation e-commerce storefront that replaces traditional keyword matching with deep **Semantic Vector Search**. 
 
+  
 Instead of searching for exact product names (e.g., "Ergonomic Chair"), users can describe their problems, needs, or desired vibes (e.g., *"My back hurts from sitting all day"*), and the platform's AI evaluates the conceptual meaning to retrieve the perfect product.
 
 ## ✨ Key Features
